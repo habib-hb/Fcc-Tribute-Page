@@ -1,0 +1,41 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title id="title">Dr Muhammad Yunus</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main id="main">
+        <figure id="img-div">
+          <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Muhammad_Yunus_%28cropped%29.jpg/800px-Muhammad_Yunus_%28cropped%29.jpg">
+          <figcaption id="img-caption">Dr Muhammad Yunus</figcaption>
+          </figcaption>
+          <p id="tribute-info">
+              Dr. Muhammad Yunus is from Bangladesh. He is the pride of our country because he has won The Nobel Prize. Some Details About Dr.Muhammad Yunus if you want to know 
+            <a id="tribute-link" href="https://en.wikipedia.org/wiki/Muhammad_Yunus" target="_blank">more about him...</a>
+          </p>
+      </main>
+    </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+img{
+  display: block;
+}
+
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+** end of undefined **
+
